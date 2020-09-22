@@ -1,23 +1,23 @@
-### I am Joey Bruno!
-# I am from Nashville, Tennessee and currently am just looking for my first Development Job! I am a recent graduate of Vanderbilt's Full-Stack Development Bootcamp and enjoy the Front-End side of development the most.
+## I am Joey Bruno!
+### I am from Nashville, Tennessee and currently am just looking for my first Development Job! I am a recent graduate of Vanderbilt's Full-Stack Development Bootcamp and enjoy the Front-End side of development the most.
 
-# Currently Touching Up These Finished Projects!
+### Currently Touching Up These Finished Projects!
 * [Easy Allies Hall of Greats](https://github.com/brunojoey/ea-hall-of-greats)
 * [Pokedex](https://github.com/brunojoey/pokedex-testing)
 
-# Programming Languages I Enjoy Working With!
+### Programming Languages I Enjoy Working With!
 * React.js
 * MongoDB, or Databases in General
 * Bootstrap
 * CSS
 
-# Currently Learning!
+### Currently Learning!
 * CSS Grid
 * Nailing Down Flexbox
 * Sass
 * Weekly JavaScript Algorithim Practice 
 
- Interested in Learning!
+### Interested in Learning!
 * React Redux
 * Vue JS
 * Angular
