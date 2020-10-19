@@ -22,7 +22,7 @@
 * Vue JS
 * Angular
 * Python
-* C##
+* C#
 * C++
 
 
