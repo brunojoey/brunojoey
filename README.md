@@ -1,5 +1,5 @@
 ## I am Joey Bruno!
-### I am from Nashville, Tennessee and currently am just looking for my first Development Job! I am a recent graduate of Vanderbilt's Full-Stack Development Bootcamp and enjoy the Front-End side of development the most.
+### I am from Nashville, Tennessee and currently am just looking for my first Development Job! I am a recent graduate of Vanderbilt's Full-Stack Development Bootcamp and enjoy the Front-End side of development the most, but enjoy getting back-end to function in an accomplishing way.
 
 ### Currently Touching Up These Finished Projects!
 * [Easy Allies Hall of Greats](https://github.com/brunojoey/ea-hall-of-greats)
@@ -9,11 +9,12 @@
 * React.js
 * MongoDB, or Databases in General
 * Bootstrap
-* CSS
+* SCSS
 
 ### Currently Learning!
+* C#
 * CSS Grid
-* Nailing Down Flexbox
+* Flexbox
 * Sass
 * Weekly JavaScript Algorithim Practice 
 
@@ -22,9 +23,7 @@
 * Vue JS
 * Angular
 * Python
-* C##
 * C++
-
 
 <!--
 **brunojoey/brunojoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
